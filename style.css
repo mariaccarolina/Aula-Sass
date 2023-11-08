@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #DDA0DD;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+section {
+  border: solid blue;
+  width: 60vw;
+  height: 30vh;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.primeira {
+  background-color: #E6E6FA;
+}
+
+.segunda {
+  background-color: #E0FFFF;
+}
+
+.terceira {
+  background-color: #FFB6C1;
+}/*# sourceMappingURL=style.css.map */
